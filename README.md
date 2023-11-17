@@ -1,7 +1,7 @@
-# Ex No:
-# Date:
+### Ex No:
+### Date:
 
-# MDP REPRESENTATION
+# <p align="center"> MDP REPRESENTATION <p>
 
 ## AIM:
 To represent any one real-world problem in MDP form.
